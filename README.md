@@ -1,5 +1,7 @@
 # cofi_application
 
+![Order](https://github.com/erikprakoso/cofi_application/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-14%20at%2013.29.28.png)
+
 A new Flutter project.
 
 ## Getting Started
