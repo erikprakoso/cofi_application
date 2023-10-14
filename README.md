@@ -2,7 +2,7 @@
 
 <div style="display: flex;">
     <img src="https://github.com/erikprakoso/cofi_application/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-14%20at%2013.29.28.png" alt="Order" width="25%" height="50%">
-    <img src="https://github.com/erikprakoso/cofi_application/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-14%20at%2013.29.28.png" alt="Order" width="25%" height="50%">
+    <img src="https://github.com/erikprakoso/cofi_application/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-14%20at%2013.29.43.png" alt="Order" width="25%" height="50%">
 </div>
 
 A new Flutter project.
